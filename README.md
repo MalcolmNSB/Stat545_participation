@@ -1,2 +1,2 @@
-# Exploration
-This repo is part of a STAT 545 exercise to explore GitHub and markdown.
+# Stat 545 Participation
+This repo is a collection of in-class Stat 545 exercises.
