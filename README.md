@@ -37,3 +37,7 @@ Here is the sequential organisation of the files:
 - [cm011-exercise.md](https://github.com/MalcolmNSB/Stat545_participation/blob/master/cm011-exercise.md)
 - [cm012-exercise.Rmd](https://github.com/MalcolmNSB/Stat545_participation/blob/master/cm012-exercise.Rmd)
 - [cm012-exercise.md](https://github.com/MalcolmNSB/Stat545_participation/blob/master/cm012-exercise.md)
+
+## Week 7
+- [cm013-exercise.Rmd](https://github.com/MalcolmNSB/Stat545_participation/blob/master/cm013-exercise.Rmd)
+- [cm013-exercise.md](https://github.com/MalcolmNSB/Stat545_participation/blob/master/cm013-exercise.md)
