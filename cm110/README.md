@@ -1,0 +1,1 @@
+This folder contains the Word Histogram exercise for class meeting 10.
